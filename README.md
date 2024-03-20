@@ -1,5 +1,4 @@
-<img alingn="right" alt="Coding" width="400" scr="![image](https://github.com/Yaki156/Yaki156/assets/92258132/18964dca-e2af-4728-8f5c-6228cbb16c58)
-">
+![kak-stat-programmistom-pervye-shagi](https://github.com/Yaki156/Yaki156/assets/92258132/260d10ea-64b7-4054-9c09-c2ebae418045)
 
 <h1 align="center">Hi 👋, I'm Yaki</h1>
 <p align="left">
