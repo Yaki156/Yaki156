@@ -1,3 +1,5 @@
+<img alingn="right" alt="Coding" width="400" scr="https://4brain.ru/blog/wp-content/uploads/2021/04/kak-stat-programmistom-pervye-shagi.png">
+
 <h1 align="center">Hi 👋, I'm Yaki</h1>
 <p align="left">
 </p>
